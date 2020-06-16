@@ -1,3 +1,8 @@
+# How to run the dash
+pip3 install -r requirements.txt
+flask run
+
+
 # Deploying your Dash app online
 
 1. Setup account on Heroku and download Heroku CLI utility
